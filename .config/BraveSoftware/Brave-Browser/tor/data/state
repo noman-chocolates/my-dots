@@ -1,0 +1,36 @@
+# Tor state file last generated on 2021-05-05 13:52:44 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+CircuitBuildTimeBin 725 2
+CircuitBuildTimeBin 825 2
+CircuitBuildTimeBin 925 1
+CircuitBuildTimeBin 975 1
+CircuitBuildTimeBin 1025 2
+CircuitBuildTimeBin 1125 1
+CircuitBuildTimeBin 1175 1
+Dormant 0
+Guard in=default rsa_id=599A708756048993A1029B2775EEF8C9E40BB640 nickname=FalkensteinTor03 sampled_on=2021-05-03T11:46:21 sampled_idx=0 sampled_by=0.4.5.7 listed=1 confirmed_on=2021-05-02T15:09:31 confirmed_idx=1 pb_circ_attempts=10.000000 pb_circ_successes=10.000000 pb_successful_circuits_closed=10.000000
+Guard in=default rsa_id=2EB3C230180694A1E848001E20F36F76A2287039 nickname=Alastor sampled_on=2021-04-27T06:39:35 sampled_idx=1 sampled_by=0.4.5.7 listed=1 confirmed_on=2021-04-27T03:57:58 confirmed_idx=0
+Guard in=default rsa_id=CE1FD7659F2DFE92B883083C0C6C974616D17F3D nickname=dobbo sampled_on=2021-04-27T12:24:48 sampled_idx=2 sampled_by=0.4.5.7 listed=1 confirmed_on=2021-04-27T00:14:41 confirmed_idx=2
+Guard in=default rsa_id=6C2E56D2646D81091A6B9F34C5A575AFDC245E8F nickname=EvilGaming sampled_on=2021-04-25T18:06:04 sampled_idx=3 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=AFC3B368F109742622662B7385501AC65CCE2685 nickname=Unnamed sampled_on=2021-04-24T13:30:29 sampled_idx=4 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=529DD11C3500DBBB636DD4A579529C5CDA5074EC nickname=NeedAVacation sampled_on=2021-04-29T23:20:14 sampled_idx=5 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=F15F5BBB91175B81980FD0704F1762C04CF6AF1E nickname=chungus sampled_on=2021-05-04T02:08:45 sampled_idx=6 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=AE31E0FBF0D3E1B39F1DD8F55BC070D11AF524B0 nickname=UWashingtonCSE sampled_on=2021-05-04T11:08:54 sampled_idx=7 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=74A55E12F6A9FD17165A356C00407F4D206E8368 nickname=Crows sampled_on=2021-05-03T00:16:17 sampled_idx=8 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=77F8B357301C68DEA96BBAA60C07676E3E161F54 nickname=keith sampled_on=2021-04-25T10:01:17 sampled_idx=9 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=03910F285A33F365838EC66EF2C2EF754D046760 nickname=operator sampled_on=2021-04-25T22:30:35 sampled_idx=10 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=3CCEF96871A49AC06149E4AA8E14D270D881F6D3 nickname=tor1sethsimmonsme sampled_on=2021-04-29T12:49:41 sampled_idx=11 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=40262D8536342A421B2957ADFB4D35CD393816B7 nickname=bauruine sampled_on=2021-05-02T20:56:39 sampled_idx=12 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=1C79D5A473214714A761C0A40DD2D5B031F7E980 nickname=Unnamed sampled_on=2021-04-27T06:38:42 sampled_idx=13 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=ABF3D28988AE83BE5B967FACB370E909215F68D7 nickname=shammas sampled_on=2021-04-26T18:26:11 sampled_idx=14 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=F6740DEABFD5F62612FA025A5079EA72846B1F67 nickname=poiuty sampled_on=2021-05-03T08:47:40 sampled_idx=15 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=5D202802C78ADAF5007EA8C57F8BE96468075D10 nickname=madtechtor sampled_on=2021-04-29T10:43:07 sampled_idx=16 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=56781CCC9F6D29FEA148799AB588429C893A473C nickname=scurra sampled_on=2021-05-04T07:12:35 sampled_idx=17 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=98806D3DBA3DF90F0A244393E503A1BBF2B3C4F1 nickname=Unnamed sampled_on=2021-04-28T06:19:39 sampled_idx=18 sampled_by=0.4.5.7 listed=1
+Guard in=default rsa_id=7DA3460B7C1C13DCAB3B49EDD6C376CA8562B3C9 nickname=Assange006us sampled_on=2021-04-26T22:18:43 sampled_idx=19 sampled_by=0.4.5.7 listed=1
+LastWritten 2021-05-05 07:52:44
+MinutesSinceUserActivity 2
+TorVersion Tor 0.4.5.7
+TotalBuildTimes 10

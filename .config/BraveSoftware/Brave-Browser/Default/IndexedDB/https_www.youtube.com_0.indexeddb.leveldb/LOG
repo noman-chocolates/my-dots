@@ -1,0 +1,7 @@
+2021/05/08-22:44:33.925 1144d Reusing MANIFEST /home/noman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/08-22:44:33.926 1144d Recovering log #166
+2021/05/08-22:44:34.430 1144d Reusing old log /home/noman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000166.log 
+2021/05/08-22:44:39.018 1144a Level-0 table #171: started
+2021/05/08-22:44:39.417 1144a Level-0 table #171: 243273 bytes OK
+2021/05/08-22:44:39.866 1144a Delete type=0 #166
+2021/05/08-22:44:39.866 1144a Manual compaction at level-0 from '\x00+\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00,\x00\x00\x00' @ 0 : 0; will stop at (end)

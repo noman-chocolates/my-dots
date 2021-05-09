@@ -1,0 +1,15 @@
+2021/05/09-13:05:56.839 30e Reusing MANIFEST /home/noman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/09-13:05:56.839 30e Recovering log #403
+2021/05/09-13:05:56.839 30e Reusing old log /home/noman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000403.log 
+2021/05/09-13:06:00.025 30d Level-0 table #408: started
+2021/05/09-13:06:00.139 30d Level-0 table #408: 436 bytes OK
+2021/05/09-13:06:00.180 30d Delete type=0 #403
+2021/05/09-13:06:00.180 30d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/09-13:06:00.181 30d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x01\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 1674 : 1
+2021/05/09-13:06:00.181 30d Compacting 1@1 + 1@2 files
+2021/05/09-13:06:00.229 30d Generated table #409@1: 22 keys, 658 bytes
+2021/05/09-13:06:00.229 30d Compacted 1@1 + 1@2 files => 658 bytes
+2021/05/09-13:06:00.269 30d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/09-13:06:00.269 30d Delete type=2 #405
+2021/05/09-13:06:00.269 30d Delete type=2 #408
+2021/05/09-13:06:00.270 30d Manual compaction at level-1 from '\x00\x01\x01\x01\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 1674 : 1 .. (end); will stop at (end)

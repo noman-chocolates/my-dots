@@ -1,0 +1,30 @@
+[Default Applications]
+x-scheme-handler/http=brave-browser.desktop
+x-scheme-handler/https=brave-browser.desktop
+x-scheme-handler/chrome=userapp-Firefox-OM4V20.desktop
+text/html=brave-browser.desktop
+application/x-extension-htm=userapp-Firefox-OM4V20.desktop
+application/x-extension-html=userapp-Firefox-OM4V20.desktop
+application/x-extension-shtml=userapp-Firefox-OM4V20.desktop
+application/xhtml+xml=userapp-Firefox-OM4V20.desktop
+application/x-extension-xhtml=userapp-Firefox-OM4V20.desktop
+application/x-extension-xht=userapp-Firefox-OM4V20.desktop
+x-scheme-handler/about=brave-browser.desktop
+x-scheme-handler/unknown=brave-browser.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Firefox-08TR20.desktop;userapp-Firefox-OM4V20.desktop;
+x-scheme-handler/https=userapp-Firefox-08TR20.desktop;userapp-Firefox-OM4V20.desktop;
+x-scheme-handler/chrome=userapp-Firefox-08TR20.desktop;userapp-Firefox-OM4V20.desktop;
+text/html=userapp-Firefox-08TR20.desktop;userapp-Firefox-OM4V20.desktop;
+application/x-extension-htm=userapp-Firefox-08TR20.desktop;userapp-Firefox-OM4V20.desktop;
+application/x-extension-html=userapp-Firefox-08TR20.desktop;userapp-Firefox-OM4V20.desktop;
+application/x-extension-shtml=userapp-Firefox-08TR20.desktop;userapp-Firefox-OM4V20.desktop;
+application/xhtml+xml=userapp-Firefox-08TR20.desktop;userapp-Firefox-OM4V20.desktop;
+application/x-extension-xhtml=userapp-Firefox-08TR20.desktop;userapp-Firefox-OM4V20.desktop;
+application/x-extension-xht=userapp-Firefox-08TR20.desktop;userapp-Firefox-OM4V20.desktop;
+text/x-scheme=nvim.desktop;vim.desktop;
+application/pdf=org.pwmt.zathura.desktop;firefox-beta-bin.desktop;
+text/plain=geany.desktop;wine-extension-ini.desktop;vim.desktop;org.pwmt.zathura.desktop;
+application/x-ms-dos-executable=wine.desktop;
+image/x-xcursor=thunar-bulk-rename.desktop;

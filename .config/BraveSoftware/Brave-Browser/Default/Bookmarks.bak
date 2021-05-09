@@ -1,0 +1,105 @@
+{
+   "checksum": "4aeb5995c1b421a659e7c2548b780dd0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13264100670000000",
+            "guid": "6104fcc8-e4a4-4150-9952-4656f31abdd2",
+            "id": "5",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-US/firefox/central/"
+         }, {
+            "date_added": "13264100737000000",
+            "guid": "ef895d31-11cd-4755-8185-18dcb2005d64",
+            "id": "6",
+            "name": "Mustafizur Rahman's 2 Wickets Against Delhi Capitals | 7th Match |Indian Premier League 2021 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=mUQIfjF9-VI"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13264100670000000",
+                  "guid": "34d623ec-d9f9-42c7-89fe-e84e6359c2ef",
+                  "id": "9",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13264100670000000",
+                  "guid": "dd5da57b-e4c6-4e58-bdb2-46e778d333ff",
+                  "id": "10",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13264100670000000",
+                  "guid": "6bd15d6d-0e20-4cec-bc27-02df3cf7dddf",
+                  "id": "11",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13264100670000000",
+                  "guid": "5ca16a3b-6a57-47f1-9696-01f97f7eb75d",
+                  "id": "12",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               } ],
+               "date_added": "13264525690754042",
+               "date_modified": "0",
+               "guid": "ece68eba-c3c8-4072-bce2-c19a8f9e531e",
+               "id": "8",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "date_added": "13264611692843836",
+               "guid": "dd2ce6c5-44f9-4790-859f-62399ca4b8c9",
+               "id": "14",
+               "name": "[FAQ] [ЧаВо] Linux Games F. A. Q. :: RuTracker.org",
+               "type": "url",
+               "url": "https://rutracker.org/forum/viewtopic.php?t=5204355#run"
+            }, {
+               "date_added": "13264611970818932",
+               "guid": "ec9f0124-6c81-4b33-9b86-3dd877d0a0c1",
+               "id": "15",
+               "name": "Metro Exodus - Gold Edition (1.0.6.5) [amd64] [Multi] [Steam] [4A Engine] – WebTorrent",
+               "type": "url",
+               "url": "magnet:?xt=urn:btih:99D8073DCE8B69636FA416DFCE4EEDBF9FE26058&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Metro%20Exodus%20-%20Gold%20Edition%20(1.0.6.5)%20%5Bamd64%5D%20%5BMulti%5D%20%5BSteam%5D%20%5B4A%20Engine%5D"
+            } ],
+            "date_added": "13264525690753476",
+            "date_modified": "13264611970818932",
+            "guid": "b3fd4aa2-b468-4da9-8673-7e14597bf335",
+            "id": "7",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         } ],
+         "date_added": "13264525673266758",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13264525673266759",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13264525673266760",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

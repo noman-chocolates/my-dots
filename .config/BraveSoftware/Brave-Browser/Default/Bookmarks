@@ -1,0 +1,91 @@
+{
+   "checksum": "38d7524895d60abab0bdf480b5bb2cd9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13264100670000000",
+            "guid": "00163632-d28c-4173-8678-1cafecf12ad7",
+            "id": "17",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-US/firefox/central/"
+         }, {
+            "date_added": "13264100737000000",
+            "guid": "298112e5-9a5a-4058-bce2-4a6ecebe4e0d",
+            "id": "18",
+            "name": "Mustafizur Rahman's 2 Wickets Against Delhi Capitals | 7th Match |Indian Premier League 2021 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=mUQIfjF9-VI"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13264100670000000",
+                  "guid": "46973fb6-b943-46be-92b2-96cf6e78e974",
+                  "id": "21",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13264100670000000",
+                  "guid": "13039456-4e8e-4da0-a837-ea071316fb7a",
+                  "id": "22",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13264100670000000",
+                  "guid": "889c8582-e55d-4556-9f08-a5b0b4d6bbc8",
+                  "id": "23",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13264100670000000",
+                  "guid": "355d1a5b-bb80-4b1d-a350-f2a79d455710",
+                  "id": "24",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               } ],
+               "date_added": "13264959560775954",
+               "date_modified": "0",
+               "guid": "e07be296-7832-4d04-9e0d-9304350a8770",
+               "id": "20",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            } ],
+            "date_added": "13264959560775526",
+            "date_modified": "13264959560775527",
+            "guid": "0a24752c-7be8-4048-8ef1-d1d2cabb40c2",
+            "id": "19",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         } ],
+         "date_added": "13264525673266758",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13264525673266759",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13264525673266760",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
