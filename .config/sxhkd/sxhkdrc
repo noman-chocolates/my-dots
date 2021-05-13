@@ -67,8 +67,8 @@ super + {_,shift + }c
 	bspc node -f {next,prev}.local.!hidden.window
 
 # focus the next/previous desktop in the current monitor
-super + {_,shift + }n
-        bspc node -f {next,prev}.local
+ctrl + alt + {h,l}
+        bspc desktop -f {prev,next}.local
 
 # focus the last node/desktop
 super + {grave,Tab}

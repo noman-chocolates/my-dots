@@ -1,15 +1,15 @@
-2021/05/09-13:13:21.466 31b Reusing MANIFEST /home/noman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/09-13:13:21.466 31b Recovering log #407
-2021/05/09-13:13:21.466 31b Reusing old log /home/noman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000407.log 
-2021/05/09-13:13:53.695 6d4 Level-0 table #412: started
-2021/05/09-13:13:53.747 6d4 Level-0 table #412: 665 bytes OK
-2021/05/09-13:13:53.792 6d4 Delete type=0 #407
-2021/05/09-13:13:53.792 6d4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/05/09-13:13:53.792 6d4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 1689 : 1
-2021/05/09-13:13:53.792 6d4 Compacting 1@1 + 1@2 files
-2021/05/09-13:13:53.837 6d4 Generated table #413@1: 22 keys, 657 bytes
-2021/05/09-13:13:53.837 6d4 Compacted 1@1 + 1@2 files => 657 bytes
-2021/05/09-13:13:53.880 6d4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/05/09-13:13:53.881 6d4 Delete type=2 #412
-2021/05/09-13:13:53.881 6d4 Delete type=2 #409
-2021/05/09-13:13:53.881 6d4 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 1689 : 1 .. (end); will stop at (end)
+2021/05/13-22:01:51.578 6ac Reusing MANIFEST /home/noman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/13-22:01:51.579 6ac Recovering log #643
+2021/05/13-22:01:51.579 6ac Reusing old log /home/noman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000643.log 
+2021/05/13-22:01:54.007 772 Level-0 table #648: started
+2021/05/13-22:01:54.178 772 Level-0 table #648: 667 bytes OK
+2021/05/13-22:01:54.235 772 Delete type=0 #643
+2021/05/13-22:01:54.235 772 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/13-22:01:54.235 772 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 2509 : 1
+2021/05/13-22:01:54.235 772 Compacting 1@1 + 1@2 files
+2021/05/13-22:01:54.292 772 Generated table #649@1: 22 keys, 658 bytes
+2021/05/13-22:01:54.292 772 Compacted 1@1 + 1@2 files => 658 bytes
+2021/05/13-22:01:54.334 772 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/13-22:01:54.335 772 Delete type=2 #648
+2021/05/13-22:01:54.335 772 Delete type=2 #645
+2021/05/13-22:01:54.335 772 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 2509 : 1 .. (end); will stop at (end)
