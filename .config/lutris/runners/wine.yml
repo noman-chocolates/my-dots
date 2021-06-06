@@ -1,4 +1,0 @@
-system: {}
-wine:
-  esync: true
-  system_winetricks: true

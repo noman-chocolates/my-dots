@@ -1,7 +1,0 @@
-game:
-  exe: /mnt/windows6/Assassins Creed Valhalla/ACValhalla.exe
-system: {}
-wine:
-  Desktop: false
-  esync: true
-  fsync: false

@@ -1,9 +1,0 @@
-game:
-  exe: /home/noman/Games/Metro Exodus/MetroExodus
-linux: {}
-system:
-  aco: true
-  disable_compositor: false
-  disable_runtime: true
-  mangohud: gl64
-  reset_desktop: true

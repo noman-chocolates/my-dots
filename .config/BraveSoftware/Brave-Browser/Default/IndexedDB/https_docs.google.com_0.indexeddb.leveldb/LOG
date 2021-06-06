@@ -1,8 +1,0 @@
-2021/05/10-16:14:27.847 565c Reusing MANIFEST /home/noman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/10-16:14:27.848 565c Recovering log #10
-2021/05/10-16:14:27.848 565c Reusing old log /home/noman/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000010.log 
-2021/05/10-16:21:45.635 56cb Level-0 table #14: started
-2021/05/10-16:21:45.635 56cb Level-0 table #14: 0 bytes OK
-2021/05/10-16:21:45.684 56cb Delete type=0 #10
-2021/05/10-16:21:45.685 56cb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/05/10-16:21:45.685 56cb Manual compaction at level-1 from (begin) .. (end); will stop at (end)
