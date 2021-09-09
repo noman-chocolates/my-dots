@@ -1,0 +1,80 @@
+configuration {
+  display-drun: "";
+  display-window: "Windows:";
+  display-ssh: "SSH";
+  show-icons: true;
+  icon-theme: "Tela circle red";
+  drun-display-format: "{icon} {name}";
+}
+
+* {
+  font: "Iosevka Custom 11";
+  icon-font: "egave 18";
+  /* padding: 3px 5px; */
+  /* background-color: #2a2a2e; */
+  background-color: #2c2c2c;
+  foreground: #9ca1a6;
+  color: @foreground;
+  separator-color: @window-bordercolor;
+}
+
+
+window {
+  background-color: @background-color;
+  transparency: "real";
+  height: 40%;
+  width: 43%;
+  border-color: @window-bordercolor;
+  border: 2 ;
+  border-radius: 5px;
+  /* margin: 30px 10px 10px 10px; */
+}
+
+mainbox {
+  background-color: transparent;
+  padding: 10px 10px 10px 10px;
+}
+
+inputbar {
+  background-color: transparent;
+  padding: 5px 10px 20px 10px;
+}
+prompt {
+  background-color: transparent;
+  text-color: #C852B7;
+  padding: 2px 5px 0px 0px;
+}
+entry {
+  background-color: transparent;
+  text-color: @foreground-color;
+}
+
+listview {
+  background-color: transparent;
+  padding: 0px 5px 0px 5px;
+  spacing: 0.2em;
+  columns: 1;
+}
+
+element {
+  background-color: transparent;
+  padding: 5px 2px 5px 2px;
+}
+
+element-icon {
+  size: 25px;
+  border: 0px;
+}
+
+element-text {
+  expand: true;
+  vertical-align: 0.5;
+}
+
+element selected {
+  border-radius: 2px;
+  background-color: #9ca1a6;
+  color: @background-color;
+}
+
+/* vim: ft=css

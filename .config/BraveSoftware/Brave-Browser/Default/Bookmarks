@@ -1,0 +1,91 @@
+{
+   "checksum": "b6015722c25513f9694d1af5aedb5be4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13265235731000000",
+            "guid": "7e9c4738-5896-47b6-bcd7-ca0d57ef7903",
+            "id": "5",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-US/firefox/central/"
+         }, {
+            "date_added": "13268757492000000",
+            "guid": "cb17fd8f-71c0-4350-aab0-d6a86622c7f6",
+            "id": "6",
+            "name": "Training Materials (2019) – Hong Kong Olympiad in Informatics",
+            "type": "url",
+            "url": "https://hkoi.org/en/training-materials/2019/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13265235731000000",
+                  "guid": "d2dd536c-a5ce-400c-a9b0-e9dd61f40292",
+                  "id": "9",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13265235731000000",
+                  "guid": "57223127-67e9-4c47-b808-9d280137b316",
+                  "id": "10",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13265235731000000",
+                  "guid": "5a641558-f6a1-43ae-8792-38bb9dc5487b",
+                  "id": "11",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13265235731000000",
+                  "guid": "d839230d-93fd-4c9d-8c41-eca901fd83f2",
+                  "id": "12",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               } ],
+               "date_added": "13270223390367961",
+               "date_modified": "0",
+               "guid": "d7a7198e-9388-4726-86fd-030df9d6a16a",
+               "id": "8",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            } ],
+            "date_added": "13270223390367505",
+            "date_modified": "13270223390367506",
+            "guid": "4981716b-75ba-4982-9242-8e55f62f25f2",
+            "id": "7",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         } ],
+         "date_added": "13270223356108078",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13270223356108083",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13270223356108086",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
